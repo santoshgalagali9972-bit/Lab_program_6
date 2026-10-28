@@ -1,3 +1,4 @@
+
 import sys
 
 def employee_details(name, employee_id, department, salary):
